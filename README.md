@@ -1,4 +1,6 @@
-# Clarissa Solino Oliveira
+# Cladutora Quality Lab
+
+**Clarissa Solino Oliveira**
 
 ## QA Engineering, AI-assisted Testing and Python
 
@@ -19,6 +21,7 @@ This portfolio presents selected projects and explains my contribution, technica
 **Technical work:** Historical BTC/USDT data retrieval from Binance; data preparation and scaling; temporal input windows; model training and prediction; comparison of predictions with observed values; analysis and visualisation.
 
 - [Project case study](projects/masters-python-lstm.md)
+- [Master's deliverables: dissertation, defence script, charts and results](https://github.com/Cladutora/masters-python-lstm/tree/main/deliverables)
 - [My Python project - source hosted on my GitHub](https://github.com/Cladutora/masters-python-lstm/blob/main/src/bitcoin_lstm.py)
 - [Original team repository, including the R models](https://github.com/JoseBarrosoHermida/Big-Data-Business-Intelligence-TFM-Oportunidades-de-Inversi-n-en-Criptomonedas-An-lisis-Predictivo)
 
